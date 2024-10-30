@@ -1,0 +1,13 @@
+hardware/*
+!hardware/*.kicad_pcb
+!hardware/*.kicad_pro
+!hardware/*.kicad_sch
+
+*BACK*
+*_autosave-*
+
+.vscode
+
+*FLAT*
+
+*.zip
