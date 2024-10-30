@@ -11,3 +11,5 @@ hardware/*
 *FLAT*
 
 *.zip
+
+/LOCAL/
