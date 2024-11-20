@@ -2989,7 +2989,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 157.48) (xy 44.45 157.48)
+			(xy 41.91 121.92) (xy 44.45 121.92)
 		)
 		(stroke
 			(width 0)
@@ -3099,7 +3099,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 132.08) (xy 44.45 132.08)
+			(xy 41.91 149.86) (xy 44.45 149.86)
 		)
 		(stroke
 			(width 0)
@@ -3109,7 +3109,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 134.62) (xy 44.45 134.62)
+			(xy 41.91 152.4) (xy 44.45 152.4)
 		)
 		(stroke
 			(width 0)
@@ -3269,7 +3269,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 127) (xy 44.45 127)
+			(xy 41.91 144.78) (xy 44.45 144.78)
 		)
 		(stroke
 			(width 0)
@@ -3289,7 +3289,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 121.92) (xy 44.45 121.92)
+			(xy 41.91 139.7) (xy 44.45 139.7)
 		)
 		(stroke
 			(width 0)
@@ -3309,7 +3309,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 139.7) (xy 44.45 139.7)
+			(xy 41.91 157.48) (xy 44.45 157.48)
 		)
 		(stroke
 			(width 0)
@@ -3349,7 +3349,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 142.24) (xy 44.45 142.24)
+			(xy 41.91 160.02) (xy 44.45 160.02)
 		)
 		(stroke
 			(width 0)
@@ -3369,7 +3369,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 114.3) (xy 44.45 114.3)
+			(xy 41.91 132.08) (xy 44.45 132.08)
 		)
 		(stroke
 			(width 0)
@@ -3409,7 +3409,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 154.94) (xy 44.45 154.94)
+			(xy 41.91 119.38) (xy 44.45 119.38)
 		)
 		(stroke
 			(width 0)
@@ -3429,7 +3429,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 144.78) (xy 44.45 144.78)
+			(xy 41.91 162.56) (xy 44.45 162.56)
 		)
 		(stroke
 			(width 0)
@@ -3489,7 +3489,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 149.86) (xy 44.45 149.86)
+			(xy 41.91 114.3) (xy 44.45 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3539,7 +3539,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 162.56) (xy 44.45 162.56)
+			(xy 41.91 127) (xy 44.45 127)
 		)
 		(stroke
 			(width 0)
@@ -3629,7 +3629,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 152.4) (xy 44.45 152.4)
+			(xy 41.91 116.84) (xy 44.45 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3659,7 +3659,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 119.38) (xy 44.45 119.38)
+			(xy 41.91 137.16) (xy 44.45 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3679,7 +3679,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 160.02) (xy 44.45 160.02)
+			(xy 41.91 124.46) (xy 44.45 124.46)
 		)
 		(stroke
 			(width 0)
@@ -3709,7 +3709,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 137.16) (xy 44.45 137.16)
+			(xy 41.91 154.94) (xy 44.45 154.94)
 		)
 		(stroke
 			(width 0)
@@ -3899,7 +3899,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 124.46) (xy 44.45 124.46)
+			(xy 41.91 142.24) (xy 44.45 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3999,7 +3999,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 116.84) (xy 44.45 116.84)
+			(xy 41.91 134.62) (xy 44.45 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4151,7 +4151,7 @@
 	)
 	(global_label "BL_ENC_A"
 		(shape input)
-		(at 41.91 154.94 180)
+		(at 41.91 119.38 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4161,7 +4161,7 @@
 		)
 		(uuid "185c2ebd-d8f7-4b6b-a3fb-c19ec09e57ab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.8534 154.94 0)
+			(at 29.8534 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4217,7 +4217,7 @@
 	)
 	(global_label "BL_ENC_B"
 		(shape input)
-		(at 41.91 152.4 180)
+		(at 41.91 116.84 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4227,7 +4227,7 @@
 		)
 		(uuid "298540e1-e1cc-4da2-8b08-591e645d29f4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.672 152.4 0)
+			(at 29.672 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4327,7 +4327,7 @@
 	)
 	(global_label "FR_M-"
 		(shape input)
-		(at 41.91 142.24 180)
+		(at 41.91 160.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4337,7 +4337,7 @@
 		)
 		(uuid "309e8c4b-8d4c-48d1-a987-6e5218aee40a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.5748 142.24 0)
+			(at 32.5748 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4371,7 +4371,7 @@
 	)
 	(global_label "FL_M-"
 		(shape input)
-		(at 41.91 124.46 180)
+		(at 41.91 142.24 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4381,7 +4381,7 @@
 		)
 		(uuid "3a5a9cc5-5c09-4165-b8b4-dc4e246c3cb3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.8167 124.46 0)
+			(at 32.8167 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4591,7 +4591,7 @@
 	)
 	(global_label "BL_M+"
 		(shape input)
-		(at 41.91 162.56 180)
+		(at 41.91 127 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4601,7 +4601,7 @@
 		)
 		(uuid "5670de1b-c325-463c-90e7-61bca08a0a42")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.6353 162.56 0)
+			(at 32.6353 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4657,7 +4657,7 @@
 	)
 	(global_label "BL_M-"
 		(shape input)
-		(at 41.91 160.02 180)
+		(at 41.91 124.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4667,7 +4667,7 @@
 		)
 		(uuid "6a718f6c-fec5-4e8f-9fec-a6a9a124b46f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.6353 160.02 0)
+			(at 32.6353 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4679,7 +4679,7 @@
 	)
 	(global_label "FR_M+"
 		(shape input)
-		(at 41.91 144.78 180)
+		(at 41.91 162.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4689,7 +4689,7 @@
 		)
 		(uuid "6ced5137-ffa3-4041-bd15-4b5172c5c02d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.5748 144.78 0)
+			(at 32.5748 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4811,7 +4811,7 @@
 	)
 	(global_label "FL_M+"
 		(shape input)
-		(at 41.91 127 180)
+		(at 41.91 144.78 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4821,7 +4821,7 @@
 		)
 		(uuid "9f519bd2-7c8c-40cf-98ab-2da1beb3c620")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.8167 127 0)
+			(at 32.8167 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4965,7 +4965,7 @@
 	)
 	(global_label "FL_ENC_B"
 		(shape input)
-		(at 41.91 116.84 180)
+		(at 41.91 134.62 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4975,7 +4975,7 @@
 		)
 		(uuid "be68d130-9a13-4848-8c7a-37a8deb060e9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.8534 116.84 0)
+			(at 29.8534 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5119,7 +5119,7 @@
 	)
 	(global_label "FR_ENC_A"
 		(shape input)
-		(at 41.91 137.16 180)
+		(at 41.91 154.94 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5129,7 +5129,7 @@
 		)
 		(uuid "d841798d-310b-4117-8dcb-26bee6127bfd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.7929 137.16 0)
+			(at 29.7929 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5229,7 +5229,7 @@
 	)
 	(global_label "FR_ENC_B"
 		(shape input)
-		(at 41.91 134.62 180)
+		(at 41.91 152.4 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5239,7 +5239,7 @@
 		)
 		(uuid "ec359ffd-f76a-4931-a0a6-af5ce0f57a81")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.6115 134.62 0)
+			(at 29.6115 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5295,7 +5295,7 @@
 	)
 	(global_label "FL_ENC_A"
 		(shape input)
-		(at 41.91 119.38 180)
+		(at 41.91 137.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5305,7 +5305,7 @@
 		)
 		(uuid "f76eb42f-5018-46fa-a64b-4aacb7467f4f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.0348 119.38 0)
+			(at 30.0348 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5867,7 +5867,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 41.91 157.48 90)
+		(at 41.91 121.92 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5876,7 +5876,7 @@
 		(fields_autoplaced yes)
 		(uuid "2687ef6f-ac0c-46a5-b8c4-dc721f0e4fd2")
 		(property "Reference" "#PWR018"
-			(at 45.72 157.48 0)
+			(at 45.72 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5885,7 +5885,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 38.1 157.4799 90)
+			(at 38.1 121.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5894,7 +5894,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 157.48 0)
+			(at 41.91 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5903,7 +5903,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 157.48 0)
+			(at 41.91 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5912,7 +5912,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 41.91 157.48 0)
+			(at 41.91 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6484,88 +6484,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x06_Pin")
-		(at 49.53 139.7 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4843035e-ec7b-4392-8418-389eac1b081e")
-		(property "Reference" "J2"
-			(at 50.8 137.1599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Front Left Motor"
-			(at 50.8 139.6999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal"
-			(at 49.53 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 49.53 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x06, script generated"
-			(at 49.53 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "57e5c552-0ed6-4269-bae1-a32b35db2bd0")
-		)
-		(pin "6"
-			(uuid "ecd10752-6e3e-45fa-aa46-cc579c7c0f5a")
-		)
-		(pin "4"
-			(uuid "fa24c375-7d70-4536-aa88-11ed0138f2b0")
-		)
-		(pin "3"
-			(uuid "ba0809fd-a737-4541-8c66-13df5c7b22a8")
-		)
-		(pin "1"
-			(uuid "a3ca9b8f-bf79-4ad2-a1b1-d818983df2d9")
-		)
-		(pin "5"
-			(uuid "1c9fb0f9-ed5d-4ee2-b71e-75a70abd271a")
-		)
-		(instances
-			(project "NORMMotorControlBoard"
-				(path "/671bd155-a743-448e-836c-6505dd3ab7d0"
-					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 189.23 71.12 0)
 		(unit 1)
@@ -7037,88 +6955,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x06_Pin")
-		(at 49.53 121.92 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "59d67ab0-7829-479d-8eaf-7ba4bfbbec43")
-		(property "Reference" "J1"
-			(at 50.8 119.3799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Back Left Motor"
-			(at 50.8 121.9199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal"
-			(at 49.53 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 49.53 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x06, script generated"
-			(at 49.53 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "83c7e8ee-6f8e-4787-8fc5-025107d1277b")
-		)
-		(pin "6"
-			(uuid "00eaeba6-ac72-4f55-bc12-81e2295471c1")
-		)
-		(pin "4"
-			(uuid "d2f86746-0ed9-42c2-9c81-41533a5886cc")
-		)
-		(pin "3"
-			(uuid "a1050ec1-6097-40f0-9dfa-7bddce10d658")
-		)
-		(pin "1"
-			(uuid "eb113740-78d9-4e88-ae63-df5ba599111d")
-		)
-		(pin "5"
-			(uuid "5a81de8f-083d-4ae4-8d8d-a920a53af59a")
-		)
-		(instances
-			(project "NORMMotorControlBoard"
-				(path "/671bd155-a743-448e-836c-6505dd3ab7d0"
-					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 223.52 45.72 270)
 		(unit 1)
@@ -7246,6 +7082,88 @@
 			(project "NORMMotorControlBoard"
 				(path "/671bd155-a743-448e-836c-6505dd3ab7d0"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x06_Pin")
+		(at 49.53 139.7 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6fca33f0-0247-42cd-a13b-eb442a6afad0")
+		(property "Reference" "J2"
+			(at 50.8 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Front Left Motor"
+			(at 50.8 139.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal"
+			(at 49.53 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.53 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x06, script generated"
+			(at 49.53 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "016f0fad-a962-43f8-bac5-59d9f40544bc")
+		)
+		(pin "6"
+			(uuid "20b7bd0c-0c40-465d-8d7b-767bde42eb43")
+		)
+		(pin "4"
+			(uuid "9c6bb653-d4dc-4a16-aaa7-59cd843d78fd")
+		)
+		(pin "3"
+			(uuid "979acc93-6039-48fc-b5e7-b62047fdd770")
+		)
+		(pin "1"
+			(uuid "5fbf3f27-1ce1-4b6c-9a5f-99ae0d8571bd")
+		)
+		(pin "5"
+			(uuid "e1785e65-c5c2-4570-8e8f-0cbca94d7768")
+		)
+		(instances
+			(project "NORMMotorControlBoard"
+				(path "/671bd155-a743-448e-836c-6505dd3ab7d0"
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -7539,7 +7457,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 41.91 121.92 90)
+		(at 41.91 139.7 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7548,7 +7466,7 @@
 		(fields_autoplaced yes)
 		(uuid "9031cdfd-f1ee-4423-9a6c-f6df0c022705")
 		(property "Reference" "#PWR014"
-			(at 45.72 121.92 0)
+			(at 45.72 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7557,7 +7475,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 38.1 121.9199 90)
+			(at 38.1 139.6999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7566,7 +7484,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 121.92 0)
+			(at 41.91 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7575,7 +7493,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 121.92 0)
+			(at 41.91 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7584,7 +7502,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 41.91 121.92 0)
+			(at 41.91 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7873,16 +7791,16 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x06_Pin")
-		(at 49.53 157.48 180)
+		(at 49.53 175.26 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "bb76b33d-3a5c-4905-a798-3849d83a08c0")
-		(property "Reference" "J3"
-			(at 50.8 154.9399 0)
+		(uuid "b8471233-ac21-4020-9151-2c441db69f95")
+		(property "Reference" "J4"
+			(at 50.8 172.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7890,8 +7808,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Front Right Motor"
-			(at 50.8 157.4799 0)
+		(property "Value" "Back Right Motor"
+			(at 50.8 175.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7900,7 +7818,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal"
-			(at 49.53 157.48 0)
+			(at 49.53 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7909,7 +7827,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 157.48 0)
+			(at 49.53 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7918,7 +7836,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated"
-			(at 49.53 157.48 0)
+			(at 49.53 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7927,27 +7845,109 @@
 			)
 		)
 		(pin "2"
-			(uuid "2092d62e-3766-4e6d-a989-798905da7d8f")
+			(uuid "95edfd58-f190-4345-a2b9-d59a851047e1")
 		)
 		(pin "6"
-			(uuid "612e5d8a-e327-4076-b5c0-71a62a75d5d6")
+			(uuid "7a9b8ac2-1a70-4d8d-b69a-3f743b81eb82")
 		)
 		(pin "4"
-			(uuid "3a2ce5ea-b27a-410a-b68f-a2ad08d5555c")
+			(uuid "278596f4-606b-449c-92cc-7badf45082ab")
 		)
 		(pin "3"
-			(uuid "ea339b14-9f7a-4c2b-b154-7900f9989cd9")
+			(uuid "0994371d-471d-4902-b6c0-73ca1c425fd9")
 		)
 		(pin "1"
-			(uuid "ae7b1f2a-a31b-4a43-83f0-ed608f498f0c")
+			(uuid "7267bfdc-6c8c-4e94-b023-3ed255864611")
 		)
 		(pin "5"
-			(uuid "4be49ab3-9b7f-4a08-a6d7-66c4660ecac6")
+			(uuid "6e24f83e-0997-4213-8108-22bbcbb47a50")
 		)
 		(instances
 			(project "NORMMotorControlBoard"
 				(path "/671bd155-a743-448e-836c-6505dd3ab7d0"
-					(reference "J3")
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x06_Pin")
+		(at 49.53 121.92 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b98b1fc3-51cd-44cf-a90e-dcfec5b25d83")
+		(property "Reference" "J1"
+			(at 50.8 119.3799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Back Left Motor"
+			(at 50.8 121.9199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal"
+			(at 49.53 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.53 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x06, script generated"
+			(at 49.53 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "75f8920e-4f49-4e83-80eb-7cf5ca97b0ab")
+		)
+		(pin "6"
+			(uuid "64e6dec9-08a1-4e97-8969-c34f10dc280b")
+		)
+		(pin "4"
+			(uuid "1b9adc61-645d-481f-8ef5-41d5bf4043ef")
+		)
+		(pin "3"
+			(uuid "9dda96b9-3b7f-4bd4-be50-1dacfab1d32e")
+		)
+		(pin "1"
+			(uuid "5e447d85-bb5a-4692-a120-58f87ad7afa1")
+		)
+		(pin "5"
+			(uuid "65c8fd39-3315-463b-9186-eb3b022082ad")
+		)
+		(instances
+			(project "NORMMotorControlBoard"
+				(path "/671bd155-a743-448e-836c-6505dd3ab7d0"
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -8088,7 +8088,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 41.91 149.86 270)
+		(at 41.91 114.3 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8097,73 +8097,6 @@
 		(fields_autoplaced yes)
 		(uuid "c406b45c-770a-48dc-baca-bfb5e7859e28")
 		(property "Reference" "#PWR017"
-			(at 35.56 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 38.1 149.8599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 41.91 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 41.91 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 41.91 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e324a381-58ba-4453-af2c-65aaed79f188")
-		)
-		(instances
-			(project "NORMMotorControlBoard"
-				(path "/671bd155-a743-448e-836c-6505dd3ab7d0"
-					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 41.91 114.3 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c84f1a6a-7187-4289-80d0-2c5aa3e420df")
-		(property "Reference" "#PWR013"
 			(at 35.56 114.3 0)
 			(effects
 				(font
@@ -8201,6 +8134,73 @@
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 41.91 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e324a381-58ba-4453-af2c-65aaed79f188")
+		)
+		(instances
+			(project "NORMMotorControlBoard"
+				(path "/671bd155-a743-448e-836c-6505dd3ab7d0"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 41.91 132.08 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c84f1a6a-7187-4289-80d0-2c5aa3e420df")
+		(property "Reference" "#PWR013"
+			(at 35.56 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 38.1 132.0799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 41.91 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 41.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8576,8 +8576,90 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x06_Pin")
+		(at 49.53 157.48 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dcf294ad-3dc4-4390-9e01-6fd9b8f37619")
+		(property "Reference" "J3"
+			(at 50.8 154.9399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Front Right Motor"
+			(at 50.8 157.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal"
+			(at 49.53 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.53 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x06, script generated"
+			(at 49.53 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "03ea028b-b6a4-4ce4-9cac-8e3190c52141")
+		)
+		(pin "6"
+			(uuid "09ffea79-f1b5-494b-938d-82c444838b16")
+		)
+		(pin "4"
+			(uuid "ab9cc737-9625-42eb-83bc-58c303f522b0")
+		)
+		(pin "3"
+			(uuid "45ee1a96-ba9b-4a51-bf1c-ffc77d6a57b3")
+		)
+		(pin "1"
+			(uuid "ea63ea38-6aba-476e-90ec-274f794e5d3a")
+		)
+		(pin "5"
+			(uuid "a58d922b-8627-4803-aeec-56385b1d3d8e")
+		)
+		(instances
+			(project "NORMMotorControlBoard"
+				(path "/671bd155-a743-448e-836c-6505dd3ab7d0"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 41.91 132.08 270)
+		(at 41.91 149.86 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8586,7 +8668,7 @@
 		(fields_autoplaced yes)
 		(uuid "ddb3b290-6164-4186-a4e9-c8b0b684dbfc")
 		(property "Reference" "#PWR015"
-			(at 35.56 132.08 0)
+			(at 35.56 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8595,7 +8677,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 38.1 132.0799 90)
+			(at 38.1 149.8599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8604,7 +8686,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 132.08 0)
+			(at 41.91 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8613,7 +8695,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 132.08 0)
+			(at 41.91 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8622,7 +8704,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 41.91 132.08 0)
+			(at 41.91 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8853,88 +8935,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x06_Pin")
-		(at 49.53 175.26 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e108a6c6-c8cc-446a-9d44-4f2a76799f69")
-		(property "Reference" "J4"
-			(at 50.8 172.7199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Back Right Motor"
-			(at 50.8 175.2599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal"
-			(at 49.53 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 49.53 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x06, script generated"
-			(at 49.53 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "de9cb880-5107-46b2-8fb0-e98412c2447d")
-		)
-		(pin "6"
-			(uuid "ff9d99a8-1201-4001-b954-c6da94d15979")
-		)
-		(pin "4"
-			(uuid "e75c01db-ae14-4e6a-92e1-a95bdbf73236")
-		)
-		(pin "3"
-			(uuid "aa9dffe1-b1cb-4338-8fa8-f4abf24a18bb")
-		)
-		(pin "1"
-			(uuid "88efb582-7bae-4a85-b6a6-a30f545b5c8c")
-		)
-		(pin "5"
-			(uuid "31a41644-7780-49d9-9832-e9e290d41eb7")
-		)
-		(instances
-			(project "NORMMotorControlBoard"
-				(path "/671bd155-a743-448e-836c-6505dd3ab7d0"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 119.38 93.98 270)
 		(unit 1)
@@ -9152,7 +9152,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 41.91 139.7 90)
+		(at 41.91 157.48 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9161,7 +9161,7 @@
 		(fields_autoplaced yes)
 		(uuid "f64b3271-ddaa-4dce-96fa-96ffb6666a93")
 		(property "Reference" "#PWR016"
-			(at 45.72 139.7 0)
+			(at 45.72 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9170,7 +9170,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 38.1 139.6999 90)
+			(at 38.1 157.4799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9179,7 +9179,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 139.7 0)
+			(at 41.91 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9188,7 +9188,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 139.7 0)
+			(at 41.91 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9197,7 +9197,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 41.91 139.7 0)
+			(at 41.91 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
