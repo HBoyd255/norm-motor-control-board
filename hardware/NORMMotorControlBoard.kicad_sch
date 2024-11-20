@@ -7268,7 +7268,7 @@
 				)
 			)
 		)
-		(property "Value" "Front Motors"
+		(property "Value" "Back Motors"
 			(at 105.41 74.93 0)
 			(effects
 				(font
