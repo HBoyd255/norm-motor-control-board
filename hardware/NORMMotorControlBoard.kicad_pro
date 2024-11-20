@@ -427,8 +427,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "Pololu_MD08A_Motor_Driver"
+    ],
+    "pinned_symbol_libs": [
+      "DFRobot_DC_Motor_Driver_Shield",
+      "Pololu_MD08A_Motor_Driver"
+    ]
   },
   "meta": {
     "filename": "NORMMotorControlBoard.kicad_pro",
