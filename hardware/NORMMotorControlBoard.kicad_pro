@@ -432,7 +432,8 @@
     ],
     "pinned_symbol_libs": [
       "DFRobot_DC_Motor_Driver_Shield",
-      "Pololu_MD08A_Motor_Driver"
+      "Pololu_MD08A_Motor_Driver",
+      "L298N"
     ]
   },
   "meta": {
