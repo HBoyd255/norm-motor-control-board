@@ -4,8 +4,3 @@
 
 This is a board that controls the motors on Project N.O.R.M. It uses an arduino
 nano 33 BLE as the controller.
-
-## License
-
-This board is licensed under the MIT License. See the [LICENSE](LICENSE) file
-for more information.
