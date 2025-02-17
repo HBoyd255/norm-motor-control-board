@@ -428,11 +428,10 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "Pololu_MD08A_Motor_Driver"
+      "L298N",
+      "Connector_Samtec_HPM_THT"
     ],
     "pinned_symbol_libs": [
-      "DFRobot_DC_Motor_Driver_Shield",
-      "Pololu_MD08A_Motor_Driver",
       "L298N"
     ]
   },
