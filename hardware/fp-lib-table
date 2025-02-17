@@ -1,3 +1,4 @@
 (fp_lib_table
   (version 7)
+  (lib (name "L298N")(type "KiCad")(uri "${KIPRJMOD}/libs/L298N/L298N.pretty")(options "")(descr ""))
 )
