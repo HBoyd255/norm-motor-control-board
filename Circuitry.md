@@ -67,22 +67,6 @@ anti-clockwise decreases it. However, to match the functionality of the
 direction pin, the encoders on the left should be modified so that the encoder
 count increases when the wheel moves forward.
 
-### Left Motors
-
-MOTOR_ENA = pwn_speed  
-MOTOR_IN1 = direction  
-MOTOR_IN2 = !direction  
-ENC_PRI = 2  
-ENC_SEC = 1
-
-### Right Motors
-
-MOTOR_ENA = pwn_speed  
-MOTOR_IN1 = !direction  
-MOTOR_IN2 = direction  
-ENC_PRI = 1  
-ENC_SEC = 2
-
 ## L298N Connection
 
 The L298N breakout has become a commonly cloned part. Due to this each board is
@@ -105,3 +89,6 @@ board will be at the front of the robot.
 ## Implementation
 
 Controlling all 8 direction pins will be handled via a 74HCT595.
+
+The motors on the left are flipped by swapping M1 and M2 as they are connected
+to the driver board
